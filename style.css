@@ -152,7 +152,7 @@
 }
 
 /* Completed */
-.list_complited .label {
+.list_completed .label {
   text-decoration: line-through;
   color: #888;
 }
